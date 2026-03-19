@@ -1,0 +1,32 @@
+C:\Users\Zeron\source\repos\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.exe
+C:\Users\Zeron\source\repos\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.deps.json
+C:\Users\Zeron\source\repos\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.runtimeconfig.json
+C:\Users\Zeron\source\repos\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.dll
+C:\Users\Zeron\source\repos\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.pdb
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.MainForm.resources
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.csproj.GenerateResource.cache
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.AssemblyInfoInputs.cache
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.AssemblyInfo.cs
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.csproj.CoreCompileInputs.cache
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.dll
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\refint\Lecser.dll
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.pdb
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.genruntimeconfig.cache
+C:\Users\Zeron\source\repos\Lecser\Lecser\obj\Debug\net8.0-windows\ref\Lecser.dll
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.exe
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.deps.json
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.runtimeconfig.json
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.dll
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\bin\Debug\net8.0-windows\Lecser.pdb
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.MainForm.resources
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.csproj.GenerateResource.cache
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.AssemblyInfoInputs.cache
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.AssemblyInfo.cs
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.csproj.CoreCompileInputs.cache
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.dll
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\refint\Lecser.dll
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.pdb
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\Lecser.genruntimeconfig.cache
+C:\Users\Zeron\Desktop\ОГУ\Семестр 5\Тяпмт\Курсовая\Lecser\Lecser\obj\Debug\net8.0-windows\ref\Lecser.dll
